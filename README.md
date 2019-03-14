@@ -1,5 +1,5 @@
 # Research Project
-Project is t build a model that can identify bacteria from an input image.
+Project aim is to build a model that can identify bacteria from an input image.
 
 ## Data
 Link to all images with corresponding xml annotations -
@@ -47,14 +47,12 @@ Directory Structure for COCO Format:
 |<img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/107.jpg?raw=true"> Idiomarina abyssalis | <img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/111.jpg?raw=true"> Idiomarina abyssalis | <img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/407.jpg?raw=true"> Idiomarina salinarum |
 <img width="1604" alt="Idiomarina salinarum" src="https://github.com/ljr97/research-project/blob/master/sample_images/408.jpg?raw=true"> Idiomarina salinarum | <img width="1604" alt="Idiomarina sediminum" src="https://github.com/ljr97/research-project/blob/master/sample_images/508.jpg?raw=true"> Idiomarina sediminum | <img width="1604" alt="Idiomarina sediminum" src="https://github.com/ljr97/research-project/blob/master/sample_images/516.jpg?raw=true"> Idiomarina sediminum |
 
-
 # Dataset Preperation
 
 # Preprocessing
 
 # Changes from baseline Detectron
 cutsom config file located here: [config](https://github.com/ljr97/research-project/blob/master/configs/halomonas_4.yaml)
-
 
 ```yaml
 MODEL: 
@@ -99,7 +97,9 @@ TEST:
 
 # Output
 
-All output pdfs located here: [pdf-output](https://github.com/ljr97/research-project/tree/master/output/pdfs)
+Results from training including model can be found here: [model](https://drive.google.com/open?id=1e4BQjOmhHJrA0eVT7SA230n6XyxBSmpG)
+
+All output pdfs located here: [pdf-output](https://github.com/ljr97/research-project/tree/master/output/pdfs)</p>
 
 Bounding box text size small at the moment, will update soon.
 
