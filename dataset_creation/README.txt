@@ -1,5 +1,8 @@
 ./Dataset contains all images and corresponding xml files with ground truths.
 
+Download Dataset from https://drive.google.com/drive/folders/1O-Yv8JHo4jM2JDpx7pMyhLPHJY1KAH4q
+and put into this current folder.
+
 If any changes to the xml annotations, run voc2coco.py file. This updates/converts any
 changes and outputs dataset.json (COCO format).
 
