@@ -62,6 +62,5 @@ def update_path(xml_file):
     tree.find('path').text = '/resized_dataset/' + filename + '.jpg'
     tree.write('resized_dataset/' + xml_file)
 
-
 # if __name__ == "__main__":
 #     create_dirs(os.getcwd())
