@@ -42,10 +42,11 @@ Directory Structure for COCO Format:
 
 ## Sample Images
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/107.jpg?raw=true"> Idiomarina abyssalis | <img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/111.jpg?raw=true"> Idiomarina abyssalis | <img width="1604" alt="Idiomarina abyssalis" src="https://github.com/ljr97/research-project/blob/master/sample_images/407.jpg?raw=true"> Idiomarina salinarum |
-<img width="1604" alt="Idiomarina salinarum" src="https://github.com/ljr97/research-project/blob/master/sample_images/408.jpg?raw=true"> Idiomarina salinarum | <img width="1604" alt="Idiomarina sediminum" src="https://github.com/ljr97/research-project/blob/master/sample_images/508.jpg?raw=true"> Idiomarina sediminum | <img width="1604" alt="Idiomarina sediminum" src="https://github.com/ljr97/research-project/blob/master/sample_images/516.jpg?raw=true"> Idiomarina sediminum |
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="1" src="https://github.com/ljr97/research-project/blob/master/sample_images/107.jpg?raw=true"> Idiomarina abyssalis | <img width="1604" alt="2" src="https://github.com/ljr97/research-project/blob/master/sample_images/111.jpg?raw=true"> Idiomarina abyssalis
+| <img width="1604" alt="3" src="https://github.com/ljr97/research-project/blob/master/sample_images/407.jpg?raw=true"> Idiomarina salinarum | <img width="1604" alt="4" src="https://github.com/ljr97/research-project/blob/master/sample_images/408.jpg?raw=true"> Idiomarina salinarum |
+<img width="1604" alt="5" src="https://github.com/ljr97/research-project/blob/master/sample_images/508.jpg?raw=true"> Idiomarina sediminum | <img width="1604" alt="6" src="https://github.com/ljr97/research-project/blob/master/sample_images/516.jpg?raw=true"> Idiomarina sediminum |
 
 # Dataset Preperation
 
